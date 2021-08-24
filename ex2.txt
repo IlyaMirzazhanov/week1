@@ -1,0 +1,4 @@
+find /usr/bin | grep gcc | sort -r > ex1.txt
+history > ex2.txt
+sh ex3.sh
+gcc main.c -o ex4.out
